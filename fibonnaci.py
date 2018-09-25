@@ -11,4 +11,3 @@ class Fibonacci:
 fib = Fibonacci(90, 120)
 
 fib.print_list_of_fib()
-
