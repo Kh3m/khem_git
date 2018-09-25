@@ -8,6 +8,6 @@ class Fibonacci:
         print(self.a)
         print(self.b)
 
-fib = Fibonacci(90, 120)
+fib = Fibonacci(120, 120)
 
 fib.print_list_of_fib()
